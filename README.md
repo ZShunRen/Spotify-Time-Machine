@@ -1,7 +1,7 @@
 # Spotify-Time-Machine
 # Description
 * A script in Python 3 that when provided with a user's credentials, as well as a date all the way back till 04/08/1958, will scrap Billboard's Hot 100(https://www.billboard.com/charts/hot-100/) and save the song in a txt file, 'top_songs.txt'. It will then save these songs in a spotify playlist in the format "Billboard Top 100: YY-MM-DD". You will be prompted to enter urls in the format of https://example.com/{KEY} which will be opened on your browser. Just copy and paste it in the terminal window.
-## Getting Started
+# Getting Started
 ### Dependencies
 * BeautifulSoup 4, Spotipy
 ### Executing program
